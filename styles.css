@@ -5,17 +5,12 @@
   stroke-opacity: .5;
 }
 
-.land {
-  fill: #222;
+.head, footer {
+  width: 90vw;
+  margin: auto;
 }
 
-.county-boundary {
-  fill: none;
-  stroke: #fff;
-  stroke-width: .5px;
-}
-
-.state-boundary {
-  fill: none;
-  stroke: #fff;
+body {
+  font-family: "Oswald";
+  text-align: center;
 }
